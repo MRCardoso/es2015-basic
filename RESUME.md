@@ -83,4 +83,4 @@ console.log(animes.map(item => item.name));// output wait a minute....[ 'DragonB
 ```
 
 [&laquo; back](https://github.com/MRCardoso/es2015-basic) |
-[next &raquo;](https://github.com/MRCardoso/git-code/blob/master/default_value.js)
+[next &raquo;](https://github.com/MRCardoso/es2015-basic/blob/master/default_value.js)
