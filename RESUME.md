@@ -55,3 +55,29 @@ console.log(name, age);// output Ana 20
 var [n1,,n3,,n5,n6 = 0] = [10,7,9,8];
 console.log(n1,n3,n5,n6);// output 10 9 undefined 0
 ```
+
+## spread AND rest
+#### Spread
+```
+function info(name, lastName)
+{
+    return `Name: ${name}, Last Name: ${lastName}`
+}
+var params = ['Marlon', 'Cardoso'];
+console.log(info(...params)); // output Name: Marlon, Last Name: Cardoso
+```
+#### Rest
+```
+function cenverter(...params)
+{
+    return `Radiations: ${params.join('')}`;
+}
+console.log(cenverter(['Alfa', 'Beta','Gama'])); // output Alfa,Beta,Gama
+```
+
+## Arrow function
+```
+// FODA do.ca.ra.le.o...
+var animes = [{name:'DragonBall'},{name:'Naruto'},{name: 'Bleach'}];
+console.log(animes.map(item => item.name));// output wait a minute....[ 'DragonBall', 'Naruto', 'Bleach' ]
+```
