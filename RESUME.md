@@ -81,3 +81,6 @@ console.log(cenverter(['Alfa', 'Beta','Gama'])); // output Alfa,Beta,Gama
 var animes = [{name:'DragonBall'},{name:'Naruto'},{name: 'Bleach'}];
 console.log(animes.map(item => item.name));// output wait a minute....[ 'DragonBall', 'Naruto', 'Bleach' ]
 ```
+
+[&laquo; back](https://github.com/MRCardoso/es2015-basic) |
+[next &raquo;](https://github.com/MRCardoso/git-code/blob/master/default_value.js)
