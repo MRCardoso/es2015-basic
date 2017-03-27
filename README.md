@@ -22,6 +22,7 @@ nojejs already support in version >= 6.0, but the browsers still no in one hundr
     ```  
 
 # Topics
+ * [Resume](https://github.com/MRCardoso/es2015-basic/blob/master/RESUME.md)
  * [Default value](https://github.com/MRCardoso/es2015-basic/blob/master/default_value.js)
  * Template String[coming soon]
  * let and const[coming soon]
