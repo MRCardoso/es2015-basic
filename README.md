@@ -26,4 +26,5 @@ nojejs already support in version >= 6.0, but the browsers still no in one hundr
 
 
 [in 2017-03-26 This tutorial was based in this playlist...](https://www.youtube.com/watch?v=vcoMWWVZS7c&list=PLDm7BSK-M5Yk30T65F5yeuCcStOQBPKq2)
+
 [see more...](http://es6-features.org/#Constants)
