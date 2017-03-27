@@ -20,4 +20,4 @@
     
 
 
-[in 2017-03-26 This tutorial was based in this playlist...](https://www.youtube.com/watch?v=vcoMWWVZS7c&list=PLDm7BSK-M5Yk30T65F5yeuCcStOQBPKq2){:target="_blank"}
+[in 2017-03-26 This tutorial was based in this playlist...](https://www.youtube.com/watch?v=vcoMWWVZS7c&list=PLDm7BSK-M5Yk30T65F5yeuCcStOQBPKq2)
