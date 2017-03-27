@@ -1,8 +1,10 @@
 ```
-    // denição de valor default
-    function test(param = 'es2015', val = null){
-        return param+' - '+val;
-    }
-    // caso parametro não seja será atribuido valor default definido no metodo
-    console.log(test(undefined, 'novas funcionalidades de JavaScrip'));
+// function with argument with default value
+// in case argument do not be informed, the defaul value will be used
+function test(param = 'es2015', val = null)
+{
+    return param+' - '+val;
+}
+// result will be 'es2015 novas funcionalidades de JavaScrip'
+console.log(test(undefined, 'novas funcionalidades de JavaScrip'));
 ```
