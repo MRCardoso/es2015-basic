@@ -19,5 +19,5 @@
   * Visual Studio Code, already have an embedded terminal, press CTRL+' to open
     
 
-## This tutorial was based in this playlist
-[link...](https://www.youtube.com/watch?v=vcoMWWVZS7c&list=PLDm7BSK-M5Yk30T65F5yeuCcStOQBPKq2)
+
+[This tutorial was based in this playlist...](https://www.youtube.com/watch?v=vcoMWWVZS7c&list=PLDm7BSK-M5Yk30T65F5yeuCcStOQBPKq2)
